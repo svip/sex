@@ -159,7 +159,7 @@ static char     *knockers[] = {
   "udposninger",          "forlys",               "fastpladelagre",
   "støddæmpere",          "knæ",                  "spejlæg",
   "baller",               "stødpuder",            "øreflipper",
-  "skinker",              "intuitive brugerflade", 
+  "skinker",              "intuitive brugerflade", "svumpukler",
 };
 
 char *and[] = {
@@ -318,7 +318,7 @@ int main(int argc, char **argv)
       }
       if (isspace(*cp)) {
         lastword = pos;
-      } 
+      }
       pos++;
     }
     buffer[pos] = ' ';
