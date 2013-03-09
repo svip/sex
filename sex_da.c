@@ -44,8 +44,8 @@ static char     *said[] = {
   "brølte",              "gøede",           "kvækkede",
   "snerrede",            "stønnede",        "udklemte",
   "brummede",            "grinte",          "udspyede",
-  "sukkede",             "ejakulerede",     "hostede",
-  "stammede",            "peb",             "hvinede",
+  "sukkede",             "fremstammede",    "hostede",
+  "stammede",            "peb",             "hvinte",
   "pev",                 "sagde",           "argumenterede",
   "græd",                "skreg",           "råbte",
   "skinkede",
@@ -121,9 +121,9 @@ static char     *male[] = {
 };
 
 static char     *diddled[] = {
-  "snød",                 "fortærrede",           "græmsede",
-  "mundede",              "tungede",              "tævede",
-  "indstilte",            "misbrugte",            "forurenede",
+  "snød",                 "fortærede",            "gramsede",
+  "slikkede",             "snavede med",          "tævede",
+  "befamlede",            "misbrugte",            "forurenede",
   "gødede",               "gennemborede",         "omsorgsfuldt voldtog",
   "hammerede",            "bad",                  "tungeslaskede",
   "sugede",               "kneppede",             "gned",
@@ -141,7 +141,7 @@ static char     *titadj[] = {
   "alabaste",             "lyserøde",             "cremede",
   "rødmossede",           "fugtige",              "dunkende",
   "saftige",              "hivende",              "spændte",
-  "elefantiske",          "sukkulente",           "skælvende",
+  "kollosale",            "sukkulente",           "skælvende",
   "rosa",                 "kugleformede",         "opsvulmede",
   "dinglende",            "blodige",              "skævvredne",
   "dryppende",            "osende",               "faste",
@@ -163,7 +163,7 @@ static char     *knockers[] = {
 };
 
 char *and[] = {
-  "og", "hvorefter han"
+  "og", "hvorefter han", "medens han"
 };
 
 static char     *thrust[] = {
@@ -173,9 +173,9 @@ static char     *thrust[] = {
   "proppede",             "dyppede",              "avancerede",
   "vædrede",              "indførte",             "skubbede",
   "fyldte",               "slæbte",               "overførte",
-  "rev",                  "tvang",                "puffede",
-  "indtog",               "allokerede",           "implementerede",
-  "skinkede",
+  "slyngede",             "tvang",                "puffede",
+  "præsenterede",         "allokerede",           "implementerede",
+  "skinkede",             "komponerede",
 };
 
 static char     *his[] = {
@@ -215,9 +215,9 @@ static char     *dong[] = {
   "manuele styrepind",    "anaconda",             "python",
   "dolk",                 "kleine Führer",        "skinke",
   "flagstang",            "vatterpas",            "ynglekæp",
-  "messingstang",         "budbringer",           "Ethernet-kabel",
+  "messingstang",         "budbringer",           "Ethernet-ledning",
   "scepter",              "sædpumpe",             "parerstang",
-  "lynafleder",           "hobbyobjekt",          "træningsapparat",
+  "lynafleder",           "hobbyobjekt",          "træningsmaskine",
 };
 
 static char     *intoher[] = {
