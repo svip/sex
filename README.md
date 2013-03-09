@@ -12,4 +12,6 @@ Brug gcc.
 brug
 ====
 
-Skriv ./sex i terminalen.  Det tager ingen parametre.
+Skriv ./sex i terminalen.  Det tager ingen parametre. (Undtagen -w,
+til word-wrapping, men Brainfuck gider ikke engang læse den kode han
+skriver dokumentation til.)
