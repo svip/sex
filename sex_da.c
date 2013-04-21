@@ -221,7 +221,7 @@ static char     *dong[] = {
 };
 
 static char     *intoher[] = {
-  "ind i hendes", "efter hendes"
+  "ind i hendes", "op i hendes"
 };
 
 static char     *twatadj[] = {
