@@ -37,7 +37,7 @@ static char     *faster[] = {
   "\"Hvad hvis Spectrum hører os?\"",   "\"Tag nu det flag, for pokker!\"",
   "\"Mit /dev/input har plads til det hele!\"",  "\"Ohøj, hund!\"",
   "\"Splitte mine bramsejl!\"", "\"Hov stop, jeg tror jeg flækker,\"",
-  "\"Skinke!\"",
+  "\"Skinke!\"", "\"Hvad er det for en fissefarfar?\""
 };
 
 static char     *said[] = {
