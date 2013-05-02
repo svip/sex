@@ -212,7 +212,7 @@ static char     *dong[] = {
   "tunge",                "tissemand",            "enøjede monster",
   "kødfløjte",            "midterste ben",        "diller",
   "gearstang",            "penis",                "holdkæftbolsje",
-  "manuele styrepind",    "anaconda",             "python",
+  "styrepind",            "anaconda",             "python",
   "dolk",                 "kleine Führer",        "skinke",
   "flagstang",            "vatterpas",            "ynglekæp",
   "messingstang",         "budbringer",           "Ethernet-ledning",
